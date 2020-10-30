@@ -4,7 +4,7 @@ A Simple Repo to Hold Python Snippets
 
 ### Programs:
 
- 1. Programs to be added Soon!
+ 1. Scientific Calculator.
  
 ### Want to Contribute ?
 
