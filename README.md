@@ -5,9 +5,7 @@ A Simple Repo to Hold Python Snippets
 ### Programs:
 
  1. Scientific Calculator.
- 2. Combination of 3 digit numbers.
- 3. Longest Word in the list.
- 
+ 2. Combinations of 3 digit number.
 ### Want to Contribute ?
 
 - Fork the Repo
