@@ -7,6 +7,7 @@ A Simple Repo to Hold Python Snippets
  1. Scientific Calculator.
  2. Combinations of 3 digit number.
  3. Longest word in the list.
+ 4. Count on Uppercase and lowercase letters in a string.
 ### Want to Contribute ?
 
 - Fork the Repo
