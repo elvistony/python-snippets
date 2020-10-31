@@ -5,6 +5,7 @@ A Simple Repo to Hold Python Snippets
 ### Programs:
 
  1. Scientific Calculator.
+ 2. Combination of 3 digit numbers.
  
 ### Want to Contribute ?
 
