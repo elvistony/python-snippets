@@ -1,6 +1,6 @@
 # Python - Snippets Repo
 
-A Simple Repo to Hold Python Snippets
+A Simple Repository to Hold Python Snippets
 
 ### Programs:
 
@@ -10,7 +10,7 @@ A Simple Repo to Hold Python Snippets
  4. Count on Uppercase and lowercase letters in a string.
 ### Want to Contribute ?
 
-- Fork the Repo
+- Fork the Repository
 - Upload your Files -> to Your Fork
 - Edit README.md and add Title of the Programs -> to Your Fork
 - Send a PR (Pull Request)
