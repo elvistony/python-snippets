@@ -6,6 +6,7 @@ A Simple Repo to Hold Python Snippets
 
  1. Scientific Calculator.
  2. Combination of 3 digit numbers.
+ 3. Longest Word in the list.
  
 ### Want to Contribute ?
 
